@@ -6,7 +6,8 @@
 -  Pronouns: he/him
 -  Fun fact: Havent touched grass since 1999
 
-[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/sakshyam-adhikari-738597368/)
+[![LinkedIn Logo](https://jsdelivr.net)](https://www.linkedin.com/in/sakshyam-adhikari-738597368/)
+
 
 
 
