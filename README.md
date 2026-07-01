@@ -7,7 +7,7 @@
 -  Fun fact: Havent touched grass since 1999
 
 
-[![LinkedIn Logo](https://delivery-p143253-e1476319.adobeaemcloud.com/adobe/assets/urn:aaid:aem:6c373362-1d10-46a1-bb4c-fcb492af6363/original/as/brandg-linkedinlogo-hero-logo-dsk-v01-2x.png)](https://linkedin.com)
+[![LinkedIn Logo](https://delivery-p143253-e1476319.adobeaemcloud.com/adobe/assets/urn:aaid:aem:6c373362-1d10-46a1-bb4c-fcb492af6363/original/as/brandg-linkedinlogo-hero-logo-dsk-v01-2x.png)](https://www.linkedin.com/in/sakshyam-adhikari-738597368/)
 
 
 
