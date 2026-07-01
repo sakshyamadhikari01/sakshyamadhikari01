@@ -7,7 +7,8 @@
 -  Fun fact: Havent touched grass since 1999
 
 
-[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/sakshyam-adhikari-738597368/)
+![Static Badge](https://img.shields.io/badge/https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsakshyam-adhikari-738597368%2F)
+
 
 
 
