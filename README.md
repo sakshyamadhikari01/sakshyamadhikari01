@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there!!!!!
 
 -  I’m currently working on some terminal based games ... :D
 -  I’m currently learning c programming
